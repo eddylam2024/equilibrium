@@ -1,0 +1,240 @@
+<svg class="rich-terminal" viewBox="0 0 1238 1123.6" xmlns="http://www.w3.org/2000/svg">
+    <!-- Generated with Rich https://www.textualize.io -->
+    <style>
+
+    @font-face {
+        font-family: "Fira Code";
+        src: local("FiraCode-Regular"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff2/FiraCode-Regular.woff2") format("woff2"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff/FiraCode-Regular.woff") format("woff");
+        font-style: normal;
+        font-weight: 400;
+    }
+    @font-face {
+        font-family: "Fira Code";
+        src: local("FiraCode-Bold"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff2/FiraCode-Bold.woff2") format("woff2"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff/FiraCode-Bold.woff") format("woff");
+        font-style: bold;
+        font-weight: 700;
+    }
+
+    .terminal-714721134-matrix {
+        font-family: Fira Code, monospace;
+        font-size: 20px;
+        line-height: 24.4px;
+        font-variant-east-asian: full-width;
+    }
+
+    .terminal-714721134-title {
+        font-size: 18px;
+        font-weight: bold;
+        font-family: arial;
+    }
+
+    .terminal-714721134-r1 { fill: #c5c8c6 }
+.terminal-714721134-r2 { fill: #d97757;font-weight: bold }
+.terminal-714721134-r3 { fill: #c5c8c6;font-weight: bold }
+.terminal-714721134-r4 { fill: #808080 }
+.terminal-714721134-r5 { fill: #585858 }
+.terminal-714721134-r6 { fill: #d97757 }
+.terminal-714721134-r7 { fill: #4b4e55;font-weight: bold }
+.terminal-714721134-r8 { fill: #b2b2b2 }
+.terminal-714721134-r9 { fill: #6cb6ff }
+.terminal-714721134-r10 { fill: #e5534b }
+.terminal-714721134-r11 { fill: #4eba65 }
+    </style>
+
+    <defs>
+    <clipPath id="terminal-714721134-clip-terminal">
+      <rect x="0" y="0" width="1219.0" height="1072.6" />
+    </clipPath>
+    <clipPath id="terminal-714721134-line-0">
+    <rect x="0" y="1.5" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-714721134-line-1">
+    <rect x="0" y="25.9" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-714721134-line-2">
+    <rect x="0" y="50.3" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-714721134-line-3">
+    <rect x="0" y="74.7" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-714721134-line-4">
+    <rect x="0" y="99.1" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-714721134-line-5">
+    <rect x="0" y="123.5" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-714721134-line-6">
+    <rect x="0" y="147.9" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-714721134-line-7">
+    <rect x="0" y="172.3" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-714721134-line-8">
+    <rect x="0" y="196.7" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-714721134-line-9">
+    <rect x="0" y="221.1" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-714721134-line-10">
+    <rect x="0" y="245.5" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-714721134-line-11">
+    <rect x="0" y="269.9" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-714721134-line-12">
+    <rect x="0" y="294.3" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-714721134-line-13">
+    <rect x="0" y="318.7" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-714721134-line-14">
+    <rect x="0" y="343.1" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-714721134-line-15">
+    <rect x="0" y="367.5" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-714721134-line-16">
+    <rect x="0" y="391.9" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-714721134-line-17">
+    <rect x="0" y="416.3" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-714721134-line-18">
+    <rect x="0" y="440.7" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-714721134-line-19">
+    <rect x="0" y="465.1" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-714721134-line-20">
+    <rect x="0" y="489.5" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-714721134-line-21">
+    <rect x="0" y="513.9" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-714721134-line-22">
+    <rect x="0" y="538.3" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-714721134-line-23">
+    <rect x="0" y="562.7" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-714721134-line-24">
+    <rect x="0" y="587.1" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-714721134-line-25">
+    <rect x="0" y="611.5" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-714721134-line-26">
+    <rect x="0" y="635.9" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-714721134-line-27">
+    <rect x="0" y="660.3" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-714721134-line-28">
+    <rect x="0" y="684.7" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-714721134-line-29">
+    <rect x="0" y="709.1" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-714721134-line-30">
+    <rect x="0" y="733.5" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-714721134-line-31">
+    <rect x="0" y="757.9" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-714721134-line-32">
+    <rect x="0" y="782.3" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-714721134-line-33">
+    <rect x="0" y="806.7" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-714721134-line-34">
+    <rect x="0" y="831.1" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-714721134-line-35">
+    <rect x="0" y="855.5" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-714721134-line-36">
+    <rect x="0" y="879.9" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-714721134-line-37">
+    <rect x="0" y="904.3" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-714721134-line-38">
+    <rect x="0" y="928.7" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-714721134-line-39">
+    <rect x="0" y="953.1" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-714721134-line-40">
+    <rect x="0" y="977.5" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-714721134-line-41">
+    <rect x="0" y="1001.9" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-714721134-line-42">
+    <rect x="0" y="1026.3" width="1220" height="24.65"/>
+            </clipPath>
+    </defs>
+
+    <rect fill="#292929" stroke="rgba(255,255,255,0.35)" stroke-width="1" x="1" y="1" width="1236" height="1121.6" rx="8"/><text class="terminal-714721134-title" fill="#c5c8c6" text-anchor="middle" x="618" y="27">equilibrium&#160;portfolio</text>
+            <g transform="translate(26,22)">
+            <circle cx="0" cy="0" r="7" fill="#ff5f57"/>
+            <circle cx="22" cy="0" r="7" fill="#febc2e"/>
+            <circle cx="44" cy="0" r="7" fill="#28c840"/>
+            </g>
+        
+    <g transform="translate(9, 41)" clip-path="url(#terminal-714721134-clip-terminal)">
+    <rect fill="#b392f0" x="414.8" y="172.3" width="85.4" height="24.65" shape-rendering="crispEdges"/>
+    <g class="terminal-714721134-matrix">
+    <text class="terminal-714721134-r1" x="1220" y="20" textLength="12.2" clip-path="url(#terminal-714721134-line-0)">
+</text><text class="terminal-714721134-r1" x="1220" y="44.4" textLength="12.2" clip-path="url(#terminal-714721134-line-1)">
+</text><text class="terminal-714721134-r1" x="1220" y="68.8" textLength="12.2" clip-path="url(#terminal-714721134-line-2)">
+</text><text class="terminal-714721134-r2" x="0" y="93.2" textLength="24.4" clip-path="url(#terminal-714721134-line-3)">✻&#160;</text><text class="terminal-714721134-r3" x="24.4" y="93.2" textLength="134.2" clip-path="url(#terminal-714721134-line-3)">EQUILIBRIUM</text><text class="terminal-714721134-r4" x="158.6" y="93.2" textLength="488" clip-path="url(#terminal-714721134-line-3)">&#160;&#160;Black-Litterman&#160;Portfolio&#160;Construction</text><text class="terminal-714721134-r5" x="646.6" y="93.2" textLength="305" clip-path="url(#terminal-714721134-line-3)">&#160;&#160;&#160;v0.1.0&#160;·&#160;research&#160;only</text><text class="terminal-714721134-r1" x="1220" y="93.2" textLength="12.2" clip-path="url(#terminal-714721134-line-3)">
+</text><text class="terminal-714721134-r4" x="24.4" y="117.6" textLength="109.8" clip-path="url(#terminal-714721134-line-4)">Universe&#160;</text><text class="terminal-714721134-r1" x="134.2" y="117.6" textLength="305" clip-path="url(#terminal-714721134-line-4)">AAPL&#160;MSFT&#160;NVDA&#160;AMZN&#160;GOOGL</text><text class="terminal-714721134-r5" x="439.2" y="117.6" textLength="61" clip-path="url(#terminal-714721134-line-4)">&#160;&#160;·&#160;&#160;</text><text class="terminal-714721134-r4" x="500.2" y="117.6" textLength="85.4" clip-path="url(#terminal-714721134-line-4)">Source&#160;</text><text class="terminal-714721134-r1" x="585.6" y="117.6" textLength="292.8" clip-path="url(#terminal-714721134-line-4)">Yahoo&#160;Finance&#160;(yfinance)</text><text class="terminal-714721134-r1" x="1220" y="117.6" textLength="12.2" clip-path="url(#terminal-714721134-line-4)">
+</text><text class="terminal-714721134-r4" x="24.4" y="142" textLength="97.6" clip-path="url(#terminal-714721134-line-5)">History&#160;</text><text class="terminal-714721134-r1" x="122" y="142" textLength="378.2" clip-path="url(#terminal-714721134-line-5)">2016-09-26&#160;→&#160;2026-09-25&#160;(10.0y)</text><text class="terminal-714721134-r5" x="500.2" y="142" textLength="61" clip-path="url(#terminal-714721134-line-5)">&#160;&#160;·&#160;&#160;</text><text class="terminal-714721134-r4" x="561.2" y="142" textLength="61" clip-path="url(#terminal-714721134-line-5)">Freq&#160;</text><text class="terminal-714721134-r1" x="622.2" y="142" textLength="85.4" clip-path="url(#terminal-714721134-line-5)">monthly</text><text class="terminal-714721134-r5" x="707.6" y="142" textLength="61" clip-path="url(#terminal-714721134-line-5)">&#160;&#160;·&#160;&#160;</text><text class="terminal-714721134-r4" x="768.6" y="142" textLength="48.8" clip-path="url(#terminal-714721134-line-5)">r_f&#160;</text><text class="terminal-714721134-r1" x="817.4" y="142" textLength="61" clip-path="url(#terminal-714721134-line-5)">4.10%</text><text class="terminal-714721134-r5" x="878.4" y="142" textLength="61" clip-path="url(#terminal-714721134-line-5)">&#160;&#160;·&#160;&#160;</text><text class="terminal-714721134-r4" x="939.4" y="142" textLength="24.4" clip-path="url(#terminal-714721134-line-5)">δ&#160;</text><text class="terminal-714721134-r1" x="963.8" y="142" textLength="36.6" clip-path="url(#terminal-714721134-line-5)">2.5</text><text class="terminal-714721134-r5" x="1000.4" y="142" textLength="61" clip-path="url(#terminal-714721134-line-5)">&#160;&#160;·&#160;&#160;</text><text class="terminal-714721134-r4" x="1061.4" y="142" textLength="24.4" clip-path="url(#terminal-714721134-line-5)">τ&#160;</text><text class="terminal-714721134-r1" x="1085.8" y="142" textLength="48.8" clip-path="url(#terminal-714721134-line-5)">0.05</text><text class="terminal-714721134-r1" x="1220" y="142" textLength="12.2" clip-path="url(#terminal-714721134-line-5)">
+</text><text class="terminal-714721134-r1" x="1220" y="166.4" textLength="12.2" clip-path="url(#terminal-714721134-line-6)">
+</text><text class="terminal-714721134-r6" x="0" y="190.8" textLength="24.4" clip-path="url(#terminal-714721134-line-7)">⏺&#160;</text><text class="terminal-714721134-r3" x="24.4" y="190.8" textLength="366" clip-path="url(#terminal-714721134-line-7)">MARKET&#160;EQUILIBRIUM&#160;→&#160;POSTERIOR</text><text class="terminal-714721134-r7" x="414.8" y="190.8" textLength="85.4" clip-path="url(#terminal-714721134-line-7)">&#160;MODEL&#160;</text><text class="terminal-714721134-r1" x="1220" y="190.8" textLength="12.2" clip-path="url(#terminal-714721134-line-7)">
+</text><text class="terminal-714721134-r5" x="0" y="215.2" textLength="61" clip-path="url(#terminal-714721134-line-8)">&#160;&#160;⎿&#160;&#160;</text><text class="terminal-714721134-r5" x="61" y="215.2" textLength="1159" clip-path="url(#terminal-714721134-line-8)">Π&#160;=&#160;δΣw_mkt&#160;(implied&#160;excess&#160;returns)&#160;·&#160;μ_BL&#160;=&#160;posterior&#160;excess&#160;returns&#160;·&#160;weights&#160;optimised&#160;on&#160;&#160;</text><text class="terminal-714721134-r1" x="1220" y="215.2" textLength="12.2" clip-path="url(#terminal-714721134-line-8)">
+</text><text class="terminal-714721134-r5" x="61" y="239.6" textLength="1159" clip-path="url(#terminal-714721134-line-9)">(μ_BL,&#160;Σ&#160;+&#160;M)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-714721134-r1" x="1220" y="239.6" textLength="12.2" clip-path="url(#terminal-714721134-line-9)">
+</text><text class="terminal-714721134-r8" x="24.4" y="264" textLength="73.2" clip-path="url(#terminal-714721134-line-10)">Ticker</text><text class="terminal-714721134-r8" x="134.2" y="264" textLength="61" clip-path="url(#terminal-714721134-line-10)">&#160;&#160;&#160;&#160;σ</text><text class="terminal-714721134-r8" x="231.8" y="264" textLength="97.6" clip-path="url(#terminal-714721134-line-10)">Market&#160;w</text><text class="terminal-714721134-r8" x="366" y="264" textLength="73.2" clip-path="url(#terminal-714721134-line-10)">&#160;&#160;&#160;&#160;&#160;Π</text><text class="terminal-714721134-r8" x="475.8" y="264" textLength="73.2" clip-path="url(#terminal-714721134-line-10)">&#160;&#160;μ_BL</text><text class="terminal-714721134-r8" x="585.6" y="264" textLength="61" clip-path="url(#terminal-714721134-line-10)">&#160;BL&#160;w</text><text class="terminal-714721134-r8" x="683.2" y="264" textLength="97.6" clip-path="url(#terminal-714721134-line-10)">Δ&#160;w&#160;(pp)</text><text class="terminal-714721134-r1" x="1220" y="264" textLength="12.2" clip-path="url(#terminal-714721134-line-10)">
+</text><text class="terminal-714721134-r5" x="24.4" y="288.4" textLength="963.8" clip-path="url(#terminal-714721134-line-11)">───────────────────────────────────────────────────────────────────────────────</text><text class="terminal-714721134-r1" x="1220" y="288.4" textLength="12.2" clip-path="url(#terminal-714721134-line-11)">
+</text><text class="terminal-714721134-r3" x="24.4" y="312.8" textLength="73.2" clip-path="url(#terminal-714721134-line-12)">AAPL&#160;&#160;</text><text class="terminal-714721134-r9" x="134.2" y="312.8" textLength="61" clip-path="url(#terminal-714721134-line-12)">27.2%</text><text class="terminal-714721134-r1" x="219.6" y="312.8" textLength="122" clip-path="url(#terminal-714721134-line-12)">&#160;&#160;&#160;&#160;23.5%&#160;</text><text class="terminal-714721134-r1" x="353.8" y="312.8" textLength="97.6" clip-path="url(#terminal-714721134-line-12)">&#160;12.96%&#160;</text><text class="terminal-714721134-r3" x="475.8" y="312.8" textLength="73.2" clip-path="url(#terminal-714721134-line-12)">10.91%</text><text class="terminal-714721134-r3" x="585.6" y="312.8" textLength="61" clip-path="url(#terminal-714721134-line-12)">&#160;9.8%</text><text class="terminal-714721134-r10" x="683.2" y="312.8" textLength="97.6" clip-path="url(#terminal-714721134-line-12)">&#160;&#160;▼&#160;13.7</text><text class="terminal-714721134-r6" x="817.4" y="312.8" textLength="170.8" clip-path="url(#terminal-714721134-line-12)">██▉&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-714721134-r1" x="1220" y="312.8" textLength="12.2" clip-path="url(#terminal-714721134-line-12)">
+</text><text class="terminal-714721134-r3" x="24.4" y="337.2" textLength="73.2" clip-path="url(#terminal-714721134-line-13)">MSFT&#160;&#160;</text><text class="terminal-714721134-r9" x="134.2" y="337.2" textLength="61" clip-path="url(#terminal-714721134-line-13)">22.8%</text><text class="terminal-714721134-r1" x="219.6" y="337.2" textLength="122" clip-path="url(#terminal-714721134-line-13)">&#160;&#160;&#160;&#160;18.1%&#160;</text><text class="terminal-714721134-r1" x="353.8" y="337.2" textLength="97.6" clip-path="url(#terminal-714721134-line-13)">&#160;11.18%&#160;</text><text class="terminal-714721134-r3" x="475.8" y="337.2" textLength="73.2" clip-path="url(#terminal-714721134-line-13)">10.09%</text><text class="terminal-714721134-r3" x="585.6" y="337.2" textLength="61" clip-path="url(#terminal-714721134-line-13)">&#160;4.5%</text><text class="terminal-714721134-r10" x="683.2" y="337.2" textLength="97.6" clip-path="url(#terminal-714721134-line-13)">&#160;&#160;▼&#160;13.6</text><text class="terminal-714721134-r6" x="817.4" y="337.2" textLength="170.8" clip-path="url(#terminal-714721134-line-13)">█▎&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-714721134-r1" x="1220" y="337.2" textLength="12.2" clip-path="url(#terminal-714721134-line-13)">
+</text><text class="terminal-714721134-r3" x="24.4" y="361.6" textLength="73.2" clip-path="url(#terminal-714721134-line-14)">NVDA&#160;&#160;</text><text class="terminal-714721134-r9" x="134.2" y="361.6" textLength="61" clip-path="url(#terminal-714721134-line-14)">46.5%</text><text class="terminal-714721134-r1" x="219.6" y="361.6" textLength="122" clip-path="url(#terminal-714721134-line-14)">&#160;&#160;&#160;&#160;25.7%&#160;</text><text class="terminal-714721134-r1" x="353.8" y="361.6" textLength="97.6" clip-path="url(#terminal-714721134-line-14)">&#160;25.73%&#160;</text><text class="terminal-714721134-r3" x="475.8" y="361.6" textLength="73.2" clip-path="url(#terminal-714721134-line-14)">28.08%</text><text class="terminal-714721134-r3" x="585.6" y="361.6" textLength="61" clip-path="url(#terminal-714721134-line-14)">47.2%</text><text class="terminal-714721134-r11" x="683.2" y="361.6" textLength="97.6" clip-path="url(#terminal-714721134-line-14)">&#160;&#160;▲&#160;21.5</text><text class="terminal-714721134-r6" x="817.4" y="361.6" textLength="170.8" clip-path="url(#terminal-714721134-line-14)">██████████████</text><text class="terminal-714721134-r1" x="1220" y="361.6" textLength="12.2" clip-path="url(#terminal-714721134-line-14)">
+</text><text class="terminal-714721134-r3" x="24.4" y="386" textLength="73.2" clip-path="url(#terminal-714721134-line-15)">AMZN&#160;&#160;</text><text class="terminal-714721134-r9" x="134.2" y="386" textLength="61" clip-path="url(#terminal-714721134-line-15)">31.1%</text><text class="terminal-714721134-r1" x="219.6" y="386" textLength="122" clip-path="url(#terminal-714721134-line-15)">&#160;&#160;&#160;&#160;12.7%&#160;</text><text class="terminal-714721134-r1" x="353.8" y="386" textLength="97.6" clip-path="url(#terminal-714721134-line-15)">&#160;15.66%&#160;</text><text class="terminal-714721134-r3" x="475.8" y="386" textLength="73.2" clip-path="url(#terminal-714721134-line-15)">14.95%</text><text class="terminal-714721134-r3" x="585.6" y="386" textLength="61" clip-path="url(#terminal-714721134-line-15)">15.0%</text><text class="terminal-714721134-r11" x="683.2" y="386" textLength="97.6" clip-path="url(#terminal-714721134-line-15)">&#160;&#160;&#160;▲&#160;2.3</text><text class="terminal-714721134-r6" x="817.4" y="386" textLength="170.8" clip-path="url(#terminal-714721134-line-15)">████▍&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-714721134-r1" x="1220" y="386" textLength="12.2" clip-path="url(#terminal-714721134-line-15)">
+</text><text class="terminal-714721134-r3" x="24.4" y="410.4" textLength="73.2" clip-path="url(#terminal-714721134-line-16)">GOOGL&#160;</text><text class="terminal-714721134-r9" x="134.2" y="410.4" textLength="61" clip-path="url(#terminal-714721134-line-16)">26.9%</text><text class="terminal-714721134-r1" x="219.6" y="410.4" textLength="122" clip-path="url(#terminal-714721134-line-16)">&#160;&#160;&#160;&#160;19.9%&#160;</text><text class="terminal-714721134-r1" x="353.8" y="410.4" textLength="97.6" clip-path="url(#terminal-714721134-line-16)">&#160;12.01%&#160;</text><text class="terminal-714721134-r3" x="475.8" y="410.4" textLength="73.2" clip-path="url(#terminal-714721134-line-16)">11.56%</text><text class="terminal-714721134-r3" x="585.6" y="410.4" textLength="61" clip-path="url(#terminal-714721134-line-16)">23.5%</text><text class="terminal-714721134-r11" x="683.2" y="410.4" textLength="97.6" clip-path="url(#terminal-714721134-line-16)">&#160;&#160;&#160;▲&#160;3.6</text><text class="terminal-714721134-r6" x="817.4" y="410.4" textLength="170.8" clip-path="url(#terminal-714721134-line-16)">██████▉&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-714721134-r1" x="1220" y="410.4" textLength="12.2" clip-path="url(#terminal-714721134-line-16)">
+</text><text class="terminal-714721134-r1" x="1220" y="434.8" textLength="12.2" clip-path="url(#terminal-714721134-line-17)">
+</text><text class="terminal-714721134-r6" x="0" y="459.2" textLength="24.4" clip-path="url(#terminal-714721134-line-18)">⏺&#160;</text><text class="terminal-714721134-r3" x="24.4" y="459.2" textLength="170.8" clip-path="url(#terminal-714721134-line-18)">INVESTOR&#160;VIEWS</text><text class="terminal-714721134-r4" x="219.6" y="459.2" textLength="97.6" clip-path="url(#terminal-714721134-line-18)">2&#160;active</text><text class="terminal-714721134-r1" x="1220" y="459.2" textLength="12.2" clip-path="url(#terminal-714721134-line-18)">
+</text><text class="terminal-714721134-r8" x="24.4" y="483.6" textLength="12.2" clip-path="url(#terminal-714721134-line-19)">#</text><text class="terminal-714721134-r8" x="73.2" y="483.6" textLength="134.2" clip-path="url(#terminal-714721134-line-19)">View&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-714721134-r8" x="244" y="483.6" textLength="85.4" clip-path="url(#terminal-714721134-line-19)">&#160;Stated</text><text class="terminal-714721134-r8" x="366" y="483.6" textLength="122" clip-path="url(#terminal-714721134-line-19)">Q&#160;(excess)</text><text class="terminal-714721134-r8" x="524.6" y="483.6" textLength="109.8" clip-path="url(#terminal-714721134-line-19)">Equil.&#160;PΠ</text><text class="terminal-714721134-r8" x="671" y="483.6" textLength="97.6" clip-path="url(#terminal-714721134-line-19)">&#160;&#160;&#160;&#160;Tilt</text><text class="terminal-714721134-r8" x="805.2" y="483.6" textLength="122" clip-path="url(#terminal-714721134-line-19)">Confidence</text><text class="terminal-714721134-r8" x="963.8" y="483.6" textLength="97.6" clip-path="url(#terminal-714721134-line-19)">&#160;&#160;&#160;&#160;&#160;&#160;&#160;ω</text><text class="terminal-714721134-r8" x="1098" y="483.6" textLength="85.4" clip-path="url(#terminal-714721134-line-19)">Ω&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-714721134-r1" x="1220" y="483.6" textLength="12.2" clip-path="url(#terminal-714721134-line-19)">
+</text><text class="terminal-714721134-r5" x="24.4" y="508" textLength="1159" clip-path="url(#terminal-714721134-line-20)">───────────────────────────────────────────────────────────────────────────────────────────────</text><text class="terminal-714721134-r1" x="1220" y="508" textLength="12.2" clip-path="url(#terminal-714721134-line-20)">
+</text><text class="terminal-714721134-r1" x="0" y="532.4" textLength="48.8" clip-path="url(#terminal-714721134-line-21)">&#160;&#160;1&#160;</text><text class="terminal-714721134-r3" x="73.2" y="532.4" textLength="48.8" clip-path="url(#terminal-714721134-line-21)">NVDA</text><text class="terminal-714721134-r6" x="122" y="532.4" textLength="36.6" clip-path="url(#terminal-714721134-line-21)">&#160;≻&#160;</text><text class="terminal-714721134-r3" x="158.6" y="532.4" textLength="48.8" clip-path="url(#terminal-714721134-line-21)">MSFT</text><text class="terminal-714721134-r1" x="231.8" y="532.4" textLength="109.8" clip-path="url(#terminal-714721134-line-21)">&#160;+20.00%&#160;</text><text class="terminal-714721134-r1" x="353.8" y="532.4" textLength="146.4" clip-path="url(#terminal-714721134-line-21)">&#160;&#160;&#160;&#160;+20.00%&#160;</text><text class="terminal-714721134-r1" x="512.4" y="532.4" textLength="134.2" clip-path="url(#terminal-714721134-line-21)">&#160;&#160;&#160;&#160;14.54%&#160;</text><text class="terminal-714721134-r11" x="671" y="532.4" textLength="97.6" clip-path="url(#terminal-714721134-line-21)">▲&#160;5.5&#160;pp</text><text class="terminal-714721134-r1" x="793" y="532.4" textLength="146.4" clip-path="url(#terminal-714721134-line-21)">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;70%&#160;</text><text class="terminal-714721134-r1" x="951.6" y="532.4" textLength="122" clip-path="url(#terminal-714721134-line-21)">&#160;0.003141&#160;</text><text class="terminal-714721134-r4" x="1098" y="532.4" textLength="85.4" clip-path="url(#terminal-714721134-line-21)">idzorek</text><text class="terminal-714721134-r1" x="1220" y="532.4" textLength="12.2" clip-path="url(#terminal-714721134-line-21)">
+</text><text class="terminal-714721134-r1" x="0" y="556.8" textLength="48.8" clip-path="url(#terminal-714721134-line-22)">&#160;&#160;2&#160;</text><text class="terminal-714721134-r3" x="73.2" y="556.8" textLength="48.8" clip-path="url(#terminal-714721134-line-22)">AAPL</text><text class="terminal-714721134-r1" x="231.8" y="556.8" textLength="109.8" clip-path="url(#terminal-714721134-line-22)">&#160;&#160;12.00%&#160;</text><text class="terminal-714721134-r1" x="353.8" y="556.8" textLength="146.4" clip-path="url(#terminal-714721134-line-22)">&#160;&#160;&#160;&#160;&#160;&#160;7.90%&#160;</text><text class="terminal-714721134-r1" x="512.4" y="556.8" textLength="134.2" clip-path="url(#terminal-714721134-line-22)">&#160;&#160;&#160;&#160;12.96%&#160;</text><text class="terminal-714721134-r10" x="671" y="556.8" textLength="97.6" clip-path="url(#terminal-714721134-line-22)">▼&#160;5.1&#160;pp</text><text class="terminal-714721134-r1" x="793" y="556.8" textLength="146.4" clip-path="url(#terminal-714721134-line-22)">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;50%&#160;</text><text class="terminal-714721134-r1" x="951.6" y="556.8" textLength="122" clip-path="url(#terminal-714721134-line-22)">&#160;0.003690&#160;</text><text class="terminal-714721134-r4" x="1098" y="556.8" textLength="85.4" clip-path="url(#terminal-714721134-line-22)">idzorek</text><text class="terminal-714721134-r1" x="1220" y="556.8" textLength="12.2" clip-path="url(#terminal-714721134-line-22)">
+</text><text class="terminal-714721134-r5" x="0" y="581.2" textLength="61" clip-path="url(#terminal-714721134-line-23)">&#160;&#160;⎿&#160;&#160;</text><text class="terminal-714721134-r5" x="61" y="581.2" textLength="1159" clip-path="url(#terminal-714721134-line-23)">Tilt&#160;=&#160;view&#160;minus&#160;what&#160;equilibrium&#160;already&#160;implies.&#160;A&#160;view&#160;below&#160;equilibrium&#160;(▼)&#160;moves&#160;weight&#160;&#160;</text><text class="terminal-714721134-r1" x="1220" y="581.2" textLength="12.2" clip-path="url(#terminal-714721134-line-23)">
+</text><text class="terminal-714721134-r5" x="61" y="605.6" textLength="1159" clip-path="url(#terminal-714721134-line-24)">away&#160;from&#160;its&#160;long&#160;leg&#160;even&#160;if&#160;the&#160;view&#160;itself&#160;is&#160;positive.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-714721134-r1" x="1220" y="605.6" textLength="12.2" clip-path="url(#terminal-714721134-line-24)">
+</text><text class="terminal-714721134-r1" x="1220" y="630" textLength="12.2" clip-path="url(#terminal-714721134-line-25)">
+</text><text class="terminal-714721134-r6" x="0" y="654.4" textLength="24.4" clip-path="url(#terminal-714721134-line-26)">⏺&#160;</text><text class="terminal-714721134-r3" x="24.4" y="654.4" textLength="109.8" clip-path="url(#terminal-714721134-line-26)">PORTFOLIO</text><text class="terminal-714721134-r4" x="158.6" y="654.4" textLength="268.4" clip-path="url(#terminal-714721134-line-26)">max-sharpe&#160;·&#160;long-only</text><text class="terminal-714721134-r1" x="1220" y="654.4" textLength="12.2" clip-path="url(#terminal-714721134-line-26)">
+</text><text class="terminal-714721134-r8" x="341.6" y="678.8" textLength="183" clip-path="url(#terminal-714721134-line-27)">Black-Litterman</text><text class="terminal-714721134-r8" x="561.2" y="678.8" textLength="73.2" clip-path="url(#terminal-714721134-line-27)">Market</text><text class="terminal-714721134-r1" x="1220" y="678.8" textLength="12.2" clip-path="url(#terminal-714721134-line-27)">
+</text><text class="terminal-714721134-r5" x="24.4" y="703.2" textLength="610" clip-path="url(#terminal-714721134-line-28)">──────────────────────────────────────────────────</text><text class="terminal-714721134-r1" x="1220" y="703.2" textLength="12.2" clip-path="url(#terminal-714721134-line-28)">
+</text><text class="terminal-714721134-r1" x="0" y="727.6" textLength="317.2" clip-path="url(#terminal-714721134-line-29)">&#160;&#160;Expected&#160;return&#160;(total)&#160;</text><text class="terminal-714721134-r3" x="341.6" y="727.6" textLength="183" clip-path="url(#terminal-714721134-line-29)">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;23.83%</text><text class="terminal-714721134-r1" x="549" y="727.6" textLength="671" clip-path="url(#terminal-714721134-line-29)">&#160;19.92%&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-714721134-r1" x="1220" y="727.6" textLength="12.2" clip-path="url(#terminal-714721134-line-29)">
+</text><text class="terminal-714721134-r1" x="0" y="752" textLength="317.2" clip-path="url(#terminal-714721134-line-30)">&#160;&#160;Expected&#160;excess&#160;return&#160;&#160;</text><text class="terminal-714721134-r1" x="329.4" y="752" textLength="207.4" clip-path="url(#terminal-714721134-line-30)">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;19.73%&#160;</text><text class="terminal-714721134-r1" x="549" y="752" textLength="671" clip-path="url(#terminal-714721134-line-30)">&#160;15.82%&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-714721134-r1" x="1220" y="752" textLength="12.2" clip-path="url(#terminal-714721134-line-30)">
+</text><text class="terminal-714721134-r1" x="0" y="776.4" textLength="317.2" clip-path="url(#terminal-714721134-line-31)">&#160;&#160;Volatility&#160;(predictive)&#160;</text><text class="terminal-714721134-r1" x="329.4" y="776.4" textLength="207.4" clip-path="url(#terminal-714721134-line-31)">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;31.26%&#160;</text><text class="terminal-714721134-r1" x="549" y="776.4" textLength="671" clip-path="url(#terminal-714721134-line-31)">&#160;25.70%&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-714721134-r1" x="1220" y="776.4" textLength="12.2" clip-path="url(#terminal-714721134-line-31)">
+</text><text class="terminal-714721134-r1" x="0" y="800.8" textLength="317.2" clip-path="url(#terminal-714721134-line-32)">&#160;&#160;Sharpe&#160;(ex-ante)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-714721134-r3" x="341.6" y="800.8" textLength="183" clip-path="url(#terminal-714721134-line-32)">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;0.63</text><text class="terminal-714721134-r1" x="549" y="800.8" textLength="671" clip-path="url(#terminal-714721134-line-32)">&#160;&#160;&#160;0.62&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-714721134-r1" x="1220" y="800.8" textLength="12.2" clip-path="url(#terminal-714721134-line-32)">
+</text><text class="terminal-714721134-r5" x="0" y="825.2" textLength="61" clip-path="url(#terminal-714721134-line-33)">&#160;&#160;⎿&#160;&#160;</text><text class="terminal-714721134-r5" x="61" y="825.2" textLength="1159" clip-path="url(#terminal-714721134-line-33)">All&#160;portfolio&#160;figures&#160;are&#160;model&#160;estimates&#160;under&#160;the&#160;Black-Litterman&#160;posterior,&#160;not&#160;forecasts&#160;of</text><text class="terminal-714721134-r1" x="1220" y="825.2" textLength="12.2" clip-path="url(#terminal-714721134-line-33)">
+</text><text class="terminal-714721134-r5" x="61" y="849.6" textLength="1159" clip-path="url(#terminal-714721134-line-34)">realised&#160;performance.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-714721134-r1" x="1220" y="849.6" textLength="12.2" clip-path="url(#terminal-714721134-line-34)">
+</text><text class="terminal-714721134-r1" x="1220" y="874" textLength="12.2" clip-path="url(#terminal-714721134-line-35)">
+</text><text class="terminal-714721134-r6" x="0" y="898.4" textLength="24.4" clip-path="url(#terminal-714721134-line-36)">⏺&#160;</text><text class="terminal-714721134-r3" x="24.4" y="898.4" textLength="134.2" clip-path="url(#terminal-714721134-line-36)">ASSUMPTIONS</text><text class="terminal-714721134-r1" x="1220" y="898.4" textLength="12.2" clip-path="url(#terminal-714721134-line-36)">
+</text><text class="terminal-714721134-r5" x="0" y="922.8" textLength="61" clip-path="url(#terminal-714721134-line-37)">&#160;&#160;⎿&#160;&#160;</text><text class="terminal-714721134-r4" x="61" y="922.8" textLength="207.4" clip-path="url(#terminal-714721134-line-37)">r_f&#160;=&#160;4.10%&#160;(set)</text><text class="terminal-714721134-r1" x="1220" y="922.8" textLength="12.2" clip-path="url(#terminal-714721134-line-37)">
+</text><text class="terminal-714721134-r5" x="0" y="947.2" textLength="61" clip-path="url(#terminal-714721134-line-38)">&#160;&#160;⎿&#160;&#160;</text><text class="terminal-714721134-r4" x="61" y="947.2" textLength="475.8" clip-path="url(#terminal-714721134-line-38)">δ&#160;=&#160;2.5&#160;(default&#160;—&#160;He&#160;&amp;&#160;Litterman&#160;1999)</text><text class="terminal-714721134-r1" x="1220" y="947.2" textLength="12.2" clip-path="url(#terminal-714721134-line-38)">
+</text><text class="terminal-714721134-r5" x="0" y="971.6" textLength="61" clip-path="url(#terminal-714721134-line-39)">&#160;&#160;⎿&#160;&#160;</text><text class="terminal-714721134-r4" x="61" y="971.6" textLength="488" clip-path="url(#terminal-714721134-line-39)">τ&#160;=&#160;0.05&#160;(default&#160;—&#160;He&#160;&amp;&#160;Litterman&#160;1999)</text><text class="terminal-714721134-r1" x="1220" y="971.6" textLength="12.2" clip-path="url(#terminal-714721134-line-39)">
+</text><text class="terminal-714721134-r5" x="0" y="996" textLength="61" clip-path="url(#terminal-714721134-line-40)">&#160;&#160;⎿&#160;&#160;</text><text class="terminal-714721134-r4" x="61" y="996" textLength="1159" clip-path="url(#terminal-714721134-line-40)">Market&#160;portfolio&#160;=&#160;the&#160;5&#160;selected&#160;assets,&#160;weighted&#160;by&#160;current&#160;market&#160;caps&#160;(Yahoo&#160;Finance&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-714721134-r1" x="1220" y="996" textLength="12.2" clip-path="url(#terminal-714721134-line-40)">
+</text><text class="terminal-714721134-r4" x="61" y="1020.4" textLength="1159" clip-path="url(#terminal-714721134-line-41)">(yfinance));&#160;not&#160;the&#160;global&#160;market.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-714721134-r1" x="1220" y="1020.4" textLength="12.2" clip-path="url(#terminal-714721134-line-41)">
+</text><text class="terminal-714721134-r5" x="0" y="1044.8" textLength="61" clip-path="url(#terminal-714721134-line-42)">&#160;&#160;⎿&#160;&#160;</text><text class="terminal-714721134-r4" x="61" y="1044.8" textLength="780.8" clip-path="url(#terminal-714721134-line-42)">Σ&#160;=&#160;sample&#160;covariance&#160;of&#160;monthly&#160;simple&#160;returns,&#160;annualised&#160;×12.</text><text class="terminal-714721134-r1" x="1220" y="1044.8" textLength="12.2" clip-path="url(#terminal-714721134-line-42)">
+</text><text class="terminal-714721134-r5" x="0" y="1069.2" textLength="61" clip-path="url(#terminal-714721134-line-43)">&#160;&#160;⎿&#160;&#160;</text><text class="terminal-714721134-r4" x="61" y="1069.2" textLength="768.6" clip-path="url(#terminal-714721134-line-43)">Ω&#160;diagonal&#160;(independent&#160;view&#160;errors);&#160;per-view&#160;method:&#160;idzorek.</text><text class="terminal-714721134-r1" x="1220" y="1069.2" textLength="12.2" clip-path="url(#terminal-714721134-line-43)">
+</text>
+    </g>
+    </g>
+</svg>
