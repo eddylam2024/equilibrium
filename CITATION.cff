@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use or reference this work, please cite it as below."
+title: "Equilibrium: A Reproducible Research Instrument for Bayesian Portfolio Construction under the Black-Litterman Framework"
+abstract: >-
+  Equilibrium implements the Black-Litterman pipeline end to end: reverse optimisation of
+  CAPM-implied equilibrium returns, Bayesian posterior inference with explicitly calibrated
+  view uncertainty, constrained mean-variance optimisation, walk-forward evaluation free of
+  look-ahead in estimation, and historical and hypothetical stress testing. Returns are typed
+  by economic kind (excess or total) and epistemic status (observation or estimate); the
+  posterior is cross-validated across two algebraically equivalent formulations; and
+  correctness is established against a hand-derived analytical example, closed-form limiting
+  cases and independent re-implementations.
+authors:
+  - family-names: "Lam"
+    given-names: "Edouard"
+    website: "https://edouardlam.com"
+repository-code: "https://github.com/eddylam2024/equilibrium"
+version: "0.1.0"
+date-released: "2026-09-27"
+license: MIT
+keywords:
+  - Black-Litterman
+  - portfolio optimization
+  - Bayesian inference
+  - mean-variance optimization
+  - asset allocation
+  - covariance estimation
+  - backtesting
+  - quantitative finance
