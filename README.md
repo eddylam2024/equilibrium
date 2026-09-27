@@ -154,6 +154,79 @@ conditional Gaussian mean `E[r_U | r_K = s] = Σ_UK Σ_KK⁻¹ s`.
 
 ## Architecture
 
+The system is organised in three layers with a strict dependency rule: arrows denote calls,
+dependencies point only downward, and the quantitative engine imports nothing from the
+application or interface layers (no terminal, rendering or command-line library). Every result the interface displays
+is a typed object produced by the engine, so the terminal view, the JSON output, the exports
+and the test suite observe identical numbers.
+
+```mermaid
+flowchart TB
+    subgraph iface["Interface layer"]
+        direction LR
+        shell["Interactive shell<br/>palette · completion · history"] --> cmds["Command tree<br/>--json · --verbose · --plot"]
+        cmds --> view["Terminal rendering<br/>HIST / MODEL tagging"]
+        cmds --> out["export · viz<br/>JSON / CSV · PNG / SVG"]
+    end
+
+    subgraph appl["Application layer"]
+        direction LR
+        pipe["pipeline.py<br/>orchestration, no presentation"] --> cfg["config<br/>flags > equilibrium.yaml > defaults<br/>session: universe · views"]
+    end
+
+    subgraph eng["Quantitative engine"]
+        direction LR
+        dat["data<br/>provider interface · cleaning · cache"] --> rsk["returns · risk<br/>Σ estimation · PSD checks"]
+        rsk --> blm["bl<br/>Π · P, Q, Ω · posterior"]
+        blm --> opz["optimize<br/>convex QP · LP feasibility"]
+        opz --> evl["backtest · stress<br/>walk-forward · scenarios"]
+    end
+
+    yahoo[("Yahoo Finance<br/>adjusted prices · market caps")]
+
+    iface --> appl
+    appl --> eng
+    eng --> yahoo
+```
+
+### Inference pipeline
+
+The central object is not a single number but a chain of typed quantities. Each is labelled
+by provenance: `HIST` for observations, `MODEL` for estimates. The excess/total conversion is
+made exactly once, where views enter.
+
+```mermaid
+flowchart LR
+    px["Adjusted prices<br/>HIST"] --> rt["Simple returns<br/>HIST"]
+    rt --> sg["Σ, annualised<br/>HIST"]
+    mc["Market caps"] --> wm["w_mkt"]
+    sg --> pi["Π = δΣw_mkt<br/>MODEL · excess"]
+    wm --> pi
+    vw["Views P, Q<br/>total → excess"] --> po
+    sg --> om["Ω<br/>He-Litterman · Idzorek · explicit"]
+    om --> po["Posterior μ_BL, M<br/>canonical ⇄ Woodbury check"]
+    pi --> po
+    po --> sp["Σ_post = Σ + M<br/>MODEL"]
+    po --> op["Constrained optimisation<br/>max-Sharpe · min-var · target"]
+    sp --> op
+    op --> wb["w_BL versus w_mkt"]
+    wb --> ev["Walk-forward evaluation<br/>stress testing"]
+```
+
+| Layer | Package | Responsibility |
+|---|---|---|
+| Engine | `core/` | Typed vectors carrying ticker alignment, excess/total kind and historical/model provenance; the exception hierarchy. |
+| Engine | `data/` | The `MarketDataProvider` interface, the Yahoo Finance adapter, a seeded synthetic provider, cleaning (calendars, gaps, duplicates, timezones) and an on-disk cache. |
+| Engine | `returns/`, `risk/` | Return construction and annualisation; sample and Ledoit-Wolf covariance; PSD validation and repair; ex-ante and ex-post risk metrics. |
+| Engine | `bl/` | Reverse optimisation, view matrices, Ω calibration and posterior inference. Pure functions, unit-tested against analytical results. |
+| Engine | `optimize/` | Constraint validation, LP feasibility, quadratic programmes and the efficient frontier. |
+| Engine | `backtest/`, `stress/` | Walk-forward simulation with drifting weights and costs; historical and hypothetical stress tests. |
+| Application | `pipeline.py`, `config/` | Orchestration of the engine; settings precedence and inspectable session state. |
+| Interface | `cli/`, `export/`, `viz/` | Command tree, interactive shell, terminal rendering, JSON/CSV bundles and charts. No business rules beyond presentation. |
+
+<details>
+<summary>Source tree</summary>
+
 ```
 src/equilibrium/
   core/        typed vectors (excess/total × historical/model), exception hierarchy
@@ -172,9 +245,10 @@ src/equilibrium/
   cli/         command tree, terminal rendering, interactive shell
 ```
 
-Data flows strictly downward: acquisition → cleaning → returns → risk → equilibrium →
-posterior → optimisation → evaluation. The data provider is an abstract interface, so the
-Yahoo Finance adapter can be replaced without modifying the quantitative engine.
+</details>
+
+The data provider is an abstract interface, so the Yahoo Finance adapter can be replaced by a
+licensed vendor feed without modifying the quantitative engine.
 
 ## Key technical decisions
 
